@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mern-chat/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/mern-chat/static/js/main.5fcf9511.chunk.js",
+    "main.js.map": "/mern-chat/static/js/main.5fcf9511.chunk.js.map",
+    "runtime-main.js": "/mern-chat/static/js/runtime-main.1f8ae463.js",
+    "runtime-main.js.map": "/mern-chat/static/js/runtime-main.1f8ae463.js.map",
+    "static/css/2.6e702559.chunk.css": "/mern-chat/static/css/2.6e702559.chunk.css",
+    "static/js/2.35a973ef.chunk.js": "/mern-chat/static/js/2.35a973ef.chunk.js",
+    "static/js/2.35a973ef.chunk.js.map": "/mern-chat/static/js/2.35a973ef.chunk.js.map",
+    "index.html": "/mern-chat/index.html",
+    "precache-manifest.7ffdb4f06b811be3e1b368defa54399e.js": "/mern-chat/precache-manifest.7ffdb4f06b811be3e1b368defa54399e.js",
+    "service-worker.js": "/mern-chat/service-worker.js",
+    "static/css/2.6e702559.chunk.css.map": "/mern-chat/static/css/2.6e702559.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/mern-chat/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.35a973ef.chunk.js.LICENSE.txt": "/mern-chat/static/js/2.35a973ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f8ae463.js",
+    "static/css/2.6e702559.chunk.css",
+    "static/js/2.35a973ef.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.5fcf9511.chunk.js"
+  ]
+}
